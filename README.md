@@ -31,6 +31,17 @@ I'm a tech enthusiast with a knack for tinkering with containers, web design, an
   - **Backend & Databases**: C# | SQL | LINQ | .NET | .NET Core Web API
   - **AI & Machine Learning**: Machine Learning ve Python: A'dan Z'ye Makine Öğrenmesi | Deep Learning ve Python: İleri Seviye Derin Öğrenme (5.1)
 
+## Badges 🎖️
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
 ## What I’m Up To 🚀
 I’m currently focused on optimizing my Docker setups, experimenting with AI models using Ollama and ROCm, and ensuring my self-hosted services run smoothly. If you’re into any of these areas, feel free to connect—I’m always up for a chat (even if I’m not the most talkative person 😄).
 
